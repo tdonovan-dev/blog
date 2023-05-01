@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://tdonovan-dev.github.io/blog/'
 languageCode = 'en-us'
 title = 'Full Stack Software Development Blog'
 theme = 'hugo-PaperMod'
